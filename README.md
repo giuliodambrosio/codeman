@@ -11,5 +11,5 @@ setup
 Duplicate [conf/config.example.yaml](conf/config.example.yaml) in the same
 directory to a config.yaml file.
 Customise your organisation name, the local base directory, your GitHub user email,
-and the personal token to be used with it.
+and the [personal token](https://github.com/settings/tokens) to be used with it.
 
